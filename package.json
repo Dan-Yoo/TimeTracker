@@ -17,6 +17,8 @@
     "nodemon": "^1.18.10"
   },
   "dependencies": {
-    "dotenv": "^6.2.0"
+    "active-win": "^4.1.0",
+    "dotenv": "^6.2.0",
+    "firebase-admin": "^7.0.0"
   }
 }

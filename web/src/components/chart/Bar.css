@@ -1,0 +1,28 @@
+.bar-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 1rem;
+}
+
+.bar-title {
+  text-align: right;
+  flex: 1;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+.bar-data {
+  text-align: left;
+  flex: 4;
+}
+
+.bar-content {
+  width: 100px;
+  height: 30px;
+  background-color: pink;
+  text-align: center;
+  font-size: 0.75rem;
+  line-height: 30px;
+  color: white;
+}

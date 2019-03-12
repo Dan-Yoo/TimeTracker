@@ -1,0 +1,12 @@
+.custom-select {
+  background-color: #2b2b2b !important;
+  color: white !important;
+}
+
+.custom-label {
+  color: white !important;
+}
+
+.filter-control {
+  margin-right: 2rem !important;
+}
