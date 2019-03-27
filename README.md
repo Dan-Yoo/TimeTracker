@@ -1,3 +1,2 @@
-data is where all the active window data is stored.
-
-stored under the format of year/month/day/object
+Track your application usage on your local computer and display it as a graph.
+Built for myself to see how much time I actually waste on useless browsing or gaming.
